@@ -1,4 +1,4 @@
-<h1>A.S.O.R.A. (Automated Storage & Optimization Re Assignement)</h1>
+<h1>A.S.O.R.A. (Automated Storage & Optimization Re Assignment)</h1>
 <p><b>A High-Performance RPA Engine for ERP Integration & Data Transformation</b></p>
 
 <h3>🚀 Overview</h3>
